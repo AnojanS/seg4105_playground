@@ -1,4 +1,4 @@
-# SEG4105 Labs
+# SEG4105 Lab2
 
 **Name:** Anojan Sabaratnam </br>
 **Student #:** 300022285 </br>
