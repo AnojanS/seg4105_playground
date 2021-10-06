@@ -1,17 +1,9 @@
-# SEG4105 Lab3
+# SEG4105 Lab4
 
 **Name:** Anojan Sabaratnam </br>
 **Student #:** 300022285 </br>
 **Lab Section:** SEG4105 - A01
 
-**Things I like**: </br>
-* I like how descisions are based on moving the product forward within the current cycle period rather than micromanaging employee hours
-* I like how projects are defined at the right level of abstraction so its clear to teams what they need to do but there's still room for them to be creative and work out the interesting details themselves
-* I like how integrated teams of designers and programmers are given full responsibility to define their own tasks, make adjustments to the scope, and work together to build vertical slices of the product one at a time. This frees up time for senior managers which can then be used to shape up better projects  
+A functionality that does not exist in Brightspace that I would appreciate is the ability to control notifications. Notifications currently are created for every event but users should have the ability to choose what specifically they recieve notifications for in every one of their classes.
 
-**Things I don't like**: </br>
-* I disliked the argument that a project being "good" is relative. Programmer should go into a project knowing what exactly would be considered a good final product from their designers and product managers
-
-**Open ended questions**:
-* Why are cycles six weeks exactly? Why not slightly longer or shorter?
-* Why is shaping conducted with only a few members of the team and not the entire team?
+To address this issue, a Settings tab could be added to the header bar of every class' Brightspace site which provides a list of topics users can check to recieve notifcations for. This way students would only receive notifications for events important to them and not worry about missing them in a storm of other notifications of lesser importance.  
