@@ -2,8 +2,22 @@
 
 **Name:** Anojan Sabaratnam </br>
 **Student #:** 300022285 </br>
-**Lab Section:** SEG4105 - A01
+**Lab Section:** SEG4105 - A01 </br>
 
-A functionality that does not exist in Brightspace that I would appreciate is the ability to control notifications. Notifications currently are created for every event but users should have the ability to choose what specifically they recieve notifications for in every one of their classes.
+*What things did you do that you think were awesome and should keep doing?* </br>
+Weekly scrum sessions where we documented what each of us worked on last week, what we plan on working on for the upcoming week, and any potential blockers we have. We would also sync with each other offline whenever one of us had issues. 
 
-To address this issue, a Settings tab could be added to the header bar of every class' Brightspace site which provides a list of topics users can check to recieve notifcations for. This way students would only receive notifications for events important to them and not worry about missing them in a storm of other notifications of lesser importance.  
+*What are things you think you should stop doing, and why?* </br>
+Not addressing alternatives for blockers
+
+*What new things would you like to try out?* </br>
+Section in weeky scrums where we document alternatives for potential blockers
+
+*What are things that are affecting your team but are outside your scope of control?* </br>
+Clients who will be using our application not being able to meet often. Also, team members' environments failing and needing to be set up again.
+
+**Team Members:** 
+- Sy Rajeswaran
+- Brian Kamau
+- Shumael Syed
+- Maxim Melkonian
